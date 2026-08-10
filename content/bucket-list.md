@@ -1,0 +1,104 @@
+## Completed
+
+- [x] Live in another country
+- [x] Start a company
+- [x] Go on a trip overseas with my whole family
+- [x] Swim a mile
+- [x] Learn to drive a car
+- [x] Publish a rust crate
+- [x] Volunteer 100 hours to help the elderlies
+- [x] Take a walk in the rain
+- [x] Sleep outside on the beach
+- [x] Learn to play a music instrument (tried 3x)
+- [x] Hike Los Angeles
+- [x] Eat sushi in Japan
+- [x] Travel around Eastern Europe
+- [x] Visit Vatican
+- [x] Visit Googleplex
+- [x] See a comet
+- [x] Visit Northern Europe (Norway, Sweden, Switzerland)
+- [x] Visit the White House
+- [x] Visit Eiffel Tower
+- [x] Visit Big Ben
+- [x] Visit Loch Ness (didn't see the monster)
+
+## In progress
+
+- [~] Learn Japanese
+- [~] Learn English
+- [~] Learn Korean
+- [~] Fall in love (debatable)
+- [~] Travel Southeast Asia (partially)
+- [~] Be awesome
+- [~] Be kind
+- [~] Watch all Wong Kar-wai movies
+
+## Not started
+
+- [ ] Start a non-profit
+- [ ] Become the first author of a paper at a top-tier conference
+- [ ] Get published on the New Yorker
+- [ ] Read 1000 books (7.5% done)
+- [ ] Design and publish a game
+- [ ] Have a salad from my garden
+- [ ] Become a parent
+- [ ] Be a writer in Paris
+- [ ] Take a hot-air balloon ride
+- [ ] Be in a submarine
+- [ ] Run a half marathon
+- [ ] Scuba dive
+- [ ] Surf in Hawaii
+- [ ] Fly an airplane
+- [ ] Get a PhD (in CS, Neuroscience, or Psychology)
+- [ ] Body transformation
+- [ ] Ride a horse in Mongolia
+- [ ] Publish a pypi package
+- [ ] Create my own programming language
+- [ ] Volunteer 1000 hours to help the elderlies
+- [ ] Get involved in a publishing house that focuses on math, science, and engineering books
+- [ ] Start a research lab
+- [ ] Eat at a 3 Michelin star restaurant
+- [ ] Invite a stranger to my home (CouchSurfing)
+- [ ] Sleep in a castle
+- [ ] Go on an African safari
+- [ ] Camp in a desert
+- [ ] See auroras
+- [ ] Learn to salsa
+- [ ] Zero gravity
+- [ ] Work in a casino
+- [ ] Do stand-up
+- [ ] Spend at least a month in Western Africa
+- [ ] Visit South Omo valley, Ethiopia
+- [ ] Sail around the Caribbean
+- [ ] Drink vodka in Russia
+- [ ] Visit Mecca
+- [ ] Do the Bible tour: Jerusalem, lake of Galilee, Jordan river, Bethlehem, Nazareth
+- [ ] Stay with an Amazonian tribe
+- [ ] Visit Tehran
+- [ ] Visit Sicily
+- [ ] Visit 100 countries (~20% done)
+- [ ] Go to South Pole or North Pole
+- [ ] Climb Great Pyramid of Giza, Egypt
+- [ ] Climb Great Wall, China
+- [ ] Hike to Everest base camp
+- [ ] Reed Dance, Swaziland
+- [ ] Burning Man, the US
+- [ ] Carnival in Brazil
+- [ ] Watch a Broadway show in New York
+- [ ] Pashut Festival, Israel
+- [ ] Laos' new year
+- [ ] Watch bullfight in Spain
+- [ ] Watch a football game at Camp Nou
+- [ ] Watch a football game at Anfield
+- [ ] Speak at TED
+- [ ] Meet the Pope
+- [ ] Meet a prince
+- [ ] Have my own ice cream flavor
+- [ ] Mentor someone into Stanford or Harvard
+- [ ] Travel from south to north of Japan by car
+- [ ] Spend a year in a random country
+- [ ] Meet Steven Gerrard in person
+- [ ] Meet LeBron in person
+- [ ] Open a coffee shop
+- [ ] Open a book shop
+- [ ] Live on a farm for a month

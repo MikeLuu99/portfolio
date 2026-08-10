@@ -160,7 +160,16 @@ const initialNodes: Node[] = [
               aria-label="Links"
             >
               Links
-            </span>
+            </span>{" "}
+            |
+            <a
+              href="/bucket-list"
+              className="underline mx-1"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Bucket List
+            </a>
           </p>
         </>
       ),
